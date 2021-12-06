@@ -1,1 +1,3 @@
-The dataset splits for training and testing, under different scenarios, namely, few-shot action recognition, open-set action recognition, open-set temporal action localisation.
+## The dataset splits for training and testing, under different scenarios.
+
+Few-shot action recognition, Open-set action recognition, Open-set temporal action localisation.
