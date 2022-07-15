@@ -1,6 +1,6 @@
 # Prompting Visual-Language Models for Efficient Video Understanding
 
-Chen Ju, Tengda Han, Kunhao Zheng, Ya Zhang, Weidi Xie. ECCV 2022.
+Chen Ju, Tengda Han, Kunhao Zheng, Ya Zhang, Weidi Xie. 　**ECCV 2022**.
 
 [[project page]](https://ju-chen.github.io/efficient-prompt/)
 [[Arxiv]](https://arxiv.org/pdf/2112.04478.pdf)
